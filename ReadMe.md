@@ -1,4 +1,4 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Ames Housing Price Predictor
 
 **Goals**
 1. Creating and iteratively refining a regression model
